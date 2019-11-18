@@ -1,3 +1,5 @@
 KEONK RESOLUSI
 -konsisten dalam belajar web programming
 -ingin menjadi seorang programmer web
+-bisa membuat program-program bermanfaat yang berbasis web
+-bisa kolaborasi dengan team
