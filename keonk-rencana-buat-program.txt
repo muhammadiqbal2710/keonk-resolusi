@@ -5,6 +5,7 @@ RENCANA KEONK BUAT PROGRAM
 -buat program penggajihan
  *gajih bulanan
  *gajih harian
- *laporan penggajihan
+ *laporan penggajihan bulanan
+ *laporan penggajihan harian
 -buat program absensi
 -buat program online shop
