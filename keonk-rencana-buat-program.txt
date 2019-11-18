@@ -1,0 +1,6 @@
+RENCANA KEONK BUAT PROGRAM
+
+-buat program pengelolaan ujian online
+-buat program kalkulator
+-buat program penggajihan
+-buat program absensi
