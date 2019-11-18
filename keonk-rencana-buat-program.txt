@@ -4,6 +4,7 @@ RENCANA KEONK BUAT PROGRAM
 -buat program kalkulator
 -buat program penggajihan
  *gajih bulanan
+ *gajih harian
  *laporan penggajihan bulanan
 -buat program absensi
   *buat laporan absensi
