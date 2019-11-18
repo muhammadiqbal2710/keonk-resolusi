@@ -3,4 +3,6 @@ RENCANA KEONK BUAT PROGRAM
 -buat program pengelolaan ujian online
 -buat program kalkulator
 -buat program penggajihan
+ *gajih bulanan
+ *gajih harian
 -buat program absensi
