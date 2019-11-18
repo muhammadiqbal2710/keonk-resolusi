@@ -6,3 +6,4 @@ RENCANA KEONK BUAT PROGRAM
  *gajih bulanan
  *gajih harian
 -buat program absensi
+-buat program online shop
