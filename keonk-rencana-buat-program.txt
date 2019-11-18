@@ -4,6 +4,7 @@ RENCANA KEONK BUAT PROGRAM
 -buat program kalkulator
 -buat program penggajihan
  *gajih bulanan
- -buat program absensi
+ *laporan penggajihan bulanan
+-buat program absensi
   *buat laporan absensi
--buat program online shop
+ -buat program online shop
